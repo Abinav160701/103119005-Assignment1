@@ -1,7 +1,7 @@
 # 103119005-Assignment1
 # By Abinav Prasad
 ## Assignment1
-<h1 style="text-align=center">Project Description
+<h1 style="text-align: center;">Project Description</h1>
 <li>The whole project basically has three html pages and navigation through these pages can be done within them. External css named style.css contains the styling done for the web pages and script.js contains the two functions used to navigate to two different urls. 
 Styling is done for the buttons and special hover effects also provided.</li>
 <li>Additionally, the html pages contain navigation bar on top which makes navigation within the three html pages easier. 
